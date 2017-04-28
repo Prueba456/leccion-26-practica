@@ -1,0 +1,46 @@
+#random{
+  position: absolute;
+  width: 300px;
+  height: 60px;
+  top: 10px;
+  left: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+#comparar{
+  position: absolute;
+  width: 200px;
+  height: 60px;
+  bottom: 10px;
+  left: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+img{
+  display: inline-block;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 150px;
+  height: 100px;
+}
+.captcha{
+  border: 1px solid black;
+  width: 400px;
+  height: 200px;
+  position: absolute;
+  margin-left: 35%;
+  background-color: #8b1e2e;
+}
+.icon{
+  position: absolute;
+  display: inline-block;
+  width: 40px;
+  height: 90px;
+  bottom: 0px;
+  right: 144px;
+  font-size: 30px;
+}
+h1{
+  text-align: center;
+}
